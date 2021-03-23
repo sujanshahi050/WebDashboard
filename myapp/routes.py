@@ -1,3 +1,4 @@
+# File that contains routes for the web app
 from myapp import app
 
 
