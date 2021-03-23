@@ -1,4 +1,4 @@
-# Project: WebDashboard
+# Capstone Project: WebDashboard
 
 Watch it live on https://data-dashboard-web.herokuapp.com/
 
