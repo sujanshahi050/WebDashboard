@@ -32,7 +32,7 @@ def return_figures(countries=country_default):
     country_filter = [x.lower() for x in country_filter]
     country_filter = ';'.join(country_filter)
 
-    # World Bank indicators of interest for pulling data
+    # World Bank indicators 
     indicators = ['NY.GDP.MKTP.KD.ZG', 'BX.KLT.DINV.CD.WD', 'SP.RUR.TOTL.ZS']
 
     data_frames = []  # stores the data frames with the indicator data of interest
